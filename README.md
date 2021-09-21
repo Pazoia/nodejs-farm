@@ -5,7 +5,6 @@ I'm building this project to practise working with NodeJS, creating a web server
 ## Table of Contents
 
 * [Description](#description)
-* [User Story](#user_story)
 * [Technologies](#technologies)
 * [Launch](#launch)
 * [Project Status](#project-status)
