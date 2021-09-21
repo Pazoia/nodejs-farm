@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-farm",
+  "version": "1.0.0",
+  "description": "I'm building this project to practise working with NodeJS, creating a web server from scratch, and creating an online market stall selling farm produce.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pazoia/nodejs-farm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pazoia/nodejs-farm/issues"
+  },
+  "homepage": "https://github.com/Pazoia/nodejs-farm#readme"
+}
